@@ -1,6 +1,6 @@
 # guice-examples
 
-### A few examples of using guice with scala. In particular, we have examples for:
+### A few examples of using guice with scala. Take a look at `InjectionSpec.scala`. In particular, we have examples for:
   - basic dependency bindings using a module `configure` method
 
     ```
